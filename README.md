@@ -87,20 +87,21 @@ src/
 
 ## Demo Videos
 
+### Admin Part 1
+
+https://github.com/user-attachments/assets/78861ef9-0cef-478f-b015-e9924afc8fd1
+
 ### User 1
 
-<!-- Replace the placeholder with the GitHub asset URL for the first user demo. -->
-[Watch User 1 demo](PASTE_GITHUB_USER_1_VIDEO_URL_HERE)
+https://github.com/user-attachments/assets/0ae9d5e6-3fbf-43f2-b856-3f04bb9304d5
+
+### Admin Part 2
+
+https://github.com/user-attachments/assets/c6baf3b3-861b-4cd0-a896-d2c206274bbd
 
 ### User 2
 
-<!-- Replace the placeholder with the GitHub asset URL for the second user demo. -->
-[Watch User 2 demo](PASTE_GITHUB_USER_2_VIDEO_URL_HERE)
-
-### Admin
-
-<!-- Replace the placeholder with the GitHub asset URL for the admin demo. -->
-[Watch Admin demo](PASTE_GITHUB_ADMIN_VIDEO_URL_HERE)
+https://github.com/user-attachments/assets/f00008e1-7440-4b6a-b2bf-0865147bae14
 
 ## Deployment
 
