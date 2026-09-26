@@ -85,6 +85,9 @@ src/
 - **Student submission is deliberate.** Students can open the external Drive link, write an optional response, and confirm submission through a second verification step.
 - **Responsive visual system.** The interface uses an editorial green, orange, and cream palette with Fraunces and DM Sans typography. Desktop layouts collapse into mobile-friendly stacked workflows at smaller widths.
 
+> [!NOTE]
+> Due to the short deadline, I used an AI coding assistant.
+
 ## Demo Videos
 
 ### User 1
@@ -105,8 +108,3 @@ src/
 ## Deployment
 
 Deployed on Vercel.
-
-
-> [!NOTE]
-> Due to the short deadline, I used an AI coding assistant.
-
