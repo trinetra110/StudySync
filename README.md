@@ -43,9 +43,9 @@ npm run lint      # Run ESLint
 
 The mock service layer in `src/services/api.js` owns all persistence. It stores three collections under the `studysync-data` key:
 
-- `users`: account details, email, password, and role
-- `assignments`: title, description, Drive link, and owning admin ID
-- `submissions`: assignment/student relationship, submitted status, and optional written response
+- `users`: email, id, name, password, and role
+- `assignments`: adminId, description, driveLink, id, and title
+- `submissions`: assignmentId, isSubmitted, response, studentId
 
 There is no network API or server database. This is suitable for a local or static deployment demo, but credentials should not be treated as secure production authentication.
 
@@ -64,7 +64,7 @@ src/
     Icon.jsx              # Shared SVG icon set
     Navbar.jsx            # Workspace navigation and logout
     ProgressBar.jsx       # Submission progress indicator
-    ProtectedRoute.jsx    # Public and role-protected route guards
+    Routes.jsx            # Public and role-protected route guards
   context/
     AuthContext.jsx       # Session, login, signup, and logout state
   pages/
